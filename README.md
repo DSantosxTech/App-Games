@@ -44,11 +44,11 @@ Certifique-se de ter o Node.js instalado em seu sistema.
 
 Confira algumas capturas de tela do Jogo Divertido em ação!
 
-<img src="" width="150">
-<img src="" width="150">
-<img src="" width="150">
-<img src="" width="150">
-<img src="" width="150">
+<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(5).jpeg" width="150">
+<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(2).jpeg" width="150">
+<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(1).jpeg" width="150">
+<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(3).jpeg" width="150">
+<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(4).jpeg" width="150">
 
 ## Personalização
 
