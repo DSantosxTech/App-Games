@@ -1,8 +1,8 @@
-# Jogo Divertido: Tic-Tac-Toe e Memory Game
+# Jogos cassimiro : Tic-Tac-Toe e Memory Game
 
 ## Aplicativo em desenvolvimento 
 
-Bem-vindo ao Jogo Divertido, o aplicativo que oferece duas experiências clássicas de jogos para garantir horas de diversão: o Jogo da Velha e o Jogo da Memória. Este README fornece todas as informações necessárias para começar a desfrutar desses jogos incríveis.
+Bem-vindo ao Jogos cassimiro , o aplicativo que oferece duas experiências clássicas de jogos para garantir horas de diversão: o Jogo da Velha e o Jogo da Memória. Este README fornece todas as informações necessárias para começar a desfrutar desses jogos incríveis.
 
 ## Índice
 
@@ -17,7 +17,7 @@ Bem-vindo ao Jogo Divertido, o aplicativo que oferece duas experiências clássi
 
 ## Introdução
 
-O Jogo Divertido é uma aplicação desenvolvida para proporcionar entretenimento e desafios intelectuais. Ele inclui dois jogos clássicos:
+O Jogos cassimiro  é uma aplicação desenvolvida para proporcionar entretenimento e desafios intelectuais. Ele inclui dois jogos clássicos:
 
 - **Jogo da Velha:** Desafie seus amigos em emocionantes partidas do clássico jogo da velha.
 
@@ -44,7 +44,7 @@ Certifique-se de ter o Node.js instalado em seu sistema.
 
 ## Galeria de Fotos
 
-Confira algumas capturas de tela do Jogo Divertido em ação!
+Confira algumas capturas de tela do Jogo cassimiro em ação!
 
 <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(5).jpeg" alt="Captura 1" width="200">
 <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(2).jpeg" alt="Captura 2" width="200">
@@ -68,4 +68,4 @@ Se tiver dúvidas, sugestões ou precisar de suporte, entre em contato conosco p
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE). Divirta-se jogando!
 
-**Jogo Divertido - Onde a diversão é garantida!**
+**Jogos cassimiro  - Onde a diversão é garantida!**
