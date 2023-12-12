@@ -1,5 +1,7 @@
 # Jogo Divertido: Tic-Tac-Toe e Memory Game
 
+## Aplicativo em desenvolvimento 
+
 Bem-vindo ao Jogo Divertido, o aplicativo que oferece duas experiências clássicas de jogos para garantir horas de diversão: o Jogo da Velha e o Jogo da Memória. Este README fornece todas as informações necessárias para começar a desfrutar desses jogos incríveis.
 
 ## Índice
