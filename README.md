@@ -44,11 +44,33 @@ Certifique-se de ter o Node.js instalado em seu sistema.
 
 Confira algumas capturas de tela do Jogo Divertido em ação!
 
-<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(5).jpeg" width="150">
-<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(2).jpeg" width="150">
-<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(1).jpeg" width="150">
-<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(3).jpeg" width="150">
-<img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(4).jpeg" width="150">
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(5).jpeg" class="d-block w-100" alt="Captura 1">
+    </div>
+    <div class="carousel-item">
+      <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(2).jpeg" class="d-block w-100" alt="Captura 2">
+    </div>
+    <div class="carousel-item">
+      <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(1).jpeg" class="d-block w-100" alt="Captura 3">
+    </div>
+    <div class="carousel-item">
+      <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(3).jpeg" class="d-block w-100" alt="Captura 4">
+    </div>
+    <div class="carousel-item">
+      <img src="https://raw.githubusercontent.com/DevSntosx71/App-Games/de7d4da08271aada886448f288ec831ed13835c3/github/Galeria%20(4).jpeg" class="d-block w-100" alt="Captura 5">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Anterior</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Próxima</span>
+  </button>
+</div>
 
 ## Personalização
 
